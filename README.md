@@ -1,8 +1,8 @@
 <h1 align=center > Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <b>Aadit Agarwal</b></h1>
 
-<h5 align=center >
+<h4 align=center >
 I am a pre-final year Information Technology student focused on learning backend development and broadening my knowledge about Machine Learning
-</h5>
+</h4>
 
 <table align="center" style="font-size:1.2em;">
   <tr>
@@ -31,6 +31,8 @@ I am a pre-final year Information Technology student focused on learning backend
   <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" height="40" style="vertical-align:top; margin:4px">
 
 ## 🏆 Achievements
+- Published [ActiveNet](https://arxiv.org/abs/2010.13714) at [The ACM India Joint International Conference on Data Science and Management of Data 2021](https://cods-comad.in/2021/accepted_papers.html)
+  - [Implementation](https://github.com/aaditagarwal/ActiveNet)
 - Winner of  [E&Y GDS Radio Hackathon](https://drive.google.com/file/d/15aG-A-nJQrc0axuN79I-MYQay1AIT3Gg/view) - AI in Capacity Management
   - [Solution](https://github.com/aaditagarwal/Fitment-Predictor)
 - Winner of [Game of Codes Hackathon](https://codecops.web.app/goc/certificates/IIITUGOC2020012) organized by IIIT, Una - Machine Learning Team
@@ -46,7 +48,7 @@ I am a pre-final year Information Technology student focused on learning backend
 - [MongoDB](https://www.mongodb.com/)
 - [Problem Solving](https://practice.geeksforgeeks.org/courses/dsa-self-paced)
 
-## 🏅 My Github Stats
+## 🏅 My GitHub Stats
 
 <div>
 
