@@ -1,50 +1,17 @@
-<style>
-.center {
-  text-align: center;
-  color:#fff;
-  font-size:2.4em;
-  line-height: 110%;
-}
-.mid {
-  text-align: center;
-  color:#fff;
-  font-size:1.0em;
-  line-height: 110%;
-}
+<h1 align=center > Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <b>Aadit Agarwal</b></h1>
 
-.table {
-  text-align: center;
-  color:#fff;
-  font-size:0.8em;
-  line-height: 110%;
-}
-</style>
-
-<div class="center">
-<span > Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <b>Aadit Agarwal</b></span>
-</div>
-
-</br>
-<hr>
-</br>
-
-<div class="mid">
-<span style="font-size:1.4em; text-align:center" >
+<h5 align=center >
 I am a pre-final year Information Technology student focused on learning backend development and broadening my knowledge about Machine Learning
-</span>
-</div>
+</h5>
 
-</br>
-
-<table class="table" align="center" style="font-size:1.2em;">
+<table align="center" style="font-size:1.2em;">
   <tr>
-    <td style="border-right: 1px solid #eeeeef;"> 🐦 Software Engineer Summer Intern'21 at <a href="https://numtra.com/">Numtra</a></td>
-    <td > 🌟 Data Science Winter Intern'20 at <a href="https://summerofcode.withgoogle.com/projects/#5941691627864064">TEAL India</a></td>
+    <td style="border-right: 1px solid #eeeeef;"><img alt="Numtra" title="Numtra" height="25" src="./assets/numtra.png"> Software Engineering Summer Intern'21 at </a> <a href="https://numtra.com/">Numtra LLC</a> </td>
+    <td style="border-right: 1px solid #eeeeef;"><img alt="TEAL" title="TEAL" height="20" src="https://www.tealindia.in/teal_assets/branding/teal_logo_dark.svg"> Data Science Winter Intern'20 at </a> <a href="https://www.tealindia.in/">TEAL India</a> </td>
   </tr>
 </table>
 
 <hr>
-</br>
 
 ## 🛠 Languages and Tools
 
@@ -94,8 +61,9 @@ I am a pre-final year Information Technology student focused on learning backend
 </br>
 <table align="center">
   <tr>
-    <td style="border-right: 1px solid #eeeeef;"><a href="agarwal.aadit99@gmail.com"><img alt="Mail to - agarwal.aadit99@gmail.com" title="Mail to - agarwal.aadit99@gmail.com" height="15" width="15" src="https://toppng.com/uploads/preview/mail-logo-gmail-logo-2018-11562993752ysgnopnnhx.png"> <b> agarwal.aadit99@gmail.com</b></a></td>
-    <td ><a href="https://linkedin.com/in/aaditagarwal"><img alt="LinkedIn - /aaditagarwal" title="LinkedIn - /aaditagarwal" height="15" width="15" src="assets/linkedin.svg"><b> /aaditagarwal</b></a></td>
+    <td style="border-right: 1px solid #eeeeef;"><a href="agarwal.aadit99@gmail.com"><img alt="Mail to - agarwal.aadit99@gmail.com" title="Mail to - agarwal.aadit99@gmail.com" height="15" width="15" src="https://toppng.com/uploads/preview/mail-logo-gmail-logo-2018-11562993752ysgnopnnhx.png"> <b> Mail @ agarwal.aadit99@gmail.com</b></a></td>
+    <td style="border-right: 1px solid #eeeeef;"><a href="https://linkedin.com/in/aaditagarwal"><img alt="LinkedIn - /aaditagarwal" title="LinkedIn - /aaditagarwal" height="15" width="15" src="assets/linkedin.svg"><b> LinkedIn /aaditagarwal</b></a></td>
+    <td ><a href="https://bit.ly/aaditagarwal_resume"><img alt="Resume - aaditagarwal" title="Resume - aaditagarwal" height="15" width="15" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"><b> Resume /aaditagarwal</b></a></td>
   </tr>
 </table>
 
