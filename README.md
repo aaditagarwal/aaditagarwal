@@ -1,25 +1,54 @@
- <h1 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <b>Aadit Agarwal</b></h1>
+<style>
+.center {
+  text-align: center;
+  color:#fff;
+  font-size:2.4em;
+  line-height: 110%;
+}
+.mid {
+  text-align: center;
+  color:#fff;
+  font-size:1.0em;
+  line-height: 110%;
+}
 
+.table {
+  text-align: center;
+  color:#fff;
+  font-size:0.8em;
+  line-height: 110%;
+}
+</style>
 
-<!--![](https://visitor-badge.laobi.icu/badge?page_id=aaditagarwal.aaditagarwal) [![Github](https://img.shields.io/github/followers/aaditagarwal?label=Followers&logo=Github)](https://github.com/aaditagarwal) -->
+<div class="center">
+<span > Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <b>Aadit Agarwal</b></span>
+</div>
 
+</br>
+<hr>
+</br>
 
-<h2 align="center">
+<div class="mid">
+<span style="font-size:1.4em; text-align:center" >
 I am a pre-final year Information Technology student focused on learning backend development and broadening my knowledge about Machine Learning
-</h2>
+</span>
+</div>
 
-<table align="center">
+</br>
+
+<table class="table" align="center" style="font-size:1.2em;">
   <tr>
     <td style="border-right: 1px solid #eeeeef;"> 🐦 Software Engineer Summer Intern'21 at <a href="https://numtra.com/">Numtra</a></td>
     <td > 🌟 Data Science Winter Intern'20 at <a href="https://summerofcode.withgoogle.com/projects/#5941691627864064">TEAL India</a></td>
   </tr>
 </table>
 
-
+<hr>
+</br>
 
 ## 🛠 Languages and Tools
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
@@ -44,7 +73,7 @@ I am a pre-final year Information Technology student focused on learning backend
 ## 💻 I am currently working on
 
 - [GraphRec](https://github.com/aaditagarwal/Graphrec)
-- [Computer Recognition Systems](https://github.com/JuliaSzymanska/Computer-Recognition-Systems)
+- [Network Intrusion Detection](https://github.com/aaditagarwal/NetIntruder)
 
 ## 📚 At the moment I am learning
 - [NodeJS](https://nodejs.org/en/)
