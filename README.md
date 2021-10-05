@@ -31,9 +31,9 @@ I am a pre-final year Information Technology student focused on learning backend
   <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" height="40" style="vertical-align:top; margin:4px">
 
 ## 🏆 Achievements
-- Winner of  [E&Y GDS Radio Hackathon](https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/) - AI in Capacity Management
+- Winner of  [E&Y GDS Radio Hackathon](https://drive.google.com/file/d/15aG-A-nJQrc0axuN79I-MYQay1AIT3Gg/view) - AI in Capacity Management
   - [Solution](https://github.com/aaditagarwal/Fitment-Predictor)
-- Winner of [Game of Codes Hackathon](https://p.lodz.pl/arch/pl/studenci-pl-zaprojektowali-mobilne-aplikacje) organized by IIIT, Una - Machine Learning Team
+- Winner of [Game of Codes Hackathon](https://codecops.web.app/goc/certificates/IIITUGOC2020012) organized by IIIT, Una - Machine Learning Team
   - [Solution](https://github.com/aaditagarwal/ActiveNet)
 
 ## 💻 I am currently working on
