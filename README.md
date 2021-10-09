@@ -17,7 +17,7 @@ I love developing solutions on ideas to harness technology for tackling real-tim
 
 <table align="center">
   <tr>
-    <td style="border-right: 1px solid #eeeeef;"><img alt="Website - aaditagarwal.in" title="Website - aaditagarwal.in" height="15" src="assets/website.png" /> Website: <a href="https://aaditagarwal.in"><b>aaditagarwal.in</b></a></td>
+    <td style="border-right: 1px solid #eeeeef;"><img alt="Website - aaditagarwal.in" title="Website - aaditagarwal.in" height="23" src="assets/website.png" /> Website: <a href="https://aaditagarwal.in"><b>aaditagarwal.in</b></a></td>
     <td style="border-right: 1px solid #eeeeef;"><img alt="LinkedIn - /aaditagarwal" title="LinkedIn - /aaditagarwal" height="15" src="assets/linkedin.svg"> LinkedIn: <a href="https://linkedin.com/in/aaditagarwal"><b>/aaditagarwal</b></a></td>
     <td><img alt="Mail to - agarwal.aadit99@gmail.com" title="Mail to - agarwal.aadit99@gmail.com" height="15" src="https://toppng.com/uploads/preview/mail-logo-gmail-logo-2018-11562993752ysgnopnnhx.png"> Mail @ <a href="mailto:agarwal.aadit99@gmail.com"><b>agarwal.aadit99@gmail.com</b></a></td>
   </tr>
