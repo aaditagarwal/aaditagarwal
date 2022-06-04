@@ -1,4 +1,4 @@
-<h1 align=center > Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <b>Aadit Agarwal</b></h1>
+<h1 align=center > Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, I'm <b>Aadit Agarwal</b></h1>
 
 <h4 align=center >
 I am a pre-final year Information Technology student and a Software Engineer focused on growing as a Developer specifically Back-end engineering and broadening my knowledge about Machine Learning.
